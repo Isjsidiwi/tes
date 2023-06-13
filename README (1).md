@@ -1,81 +1,92 @@
-###### [@dcodedenpa](#dcodedenpa)
+###### [@shan](#shan)
 <p align="center">
 <a href="https://ibb.co/kJzZTmP"><img src="https://i.ibb.co/FXcp1Hd/vector-illustration-of-semar-ai.png"</a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=435&lines=SEMAR+BOT+MULTI+DEVICE;CREATED+BY+DENIS+PUTRA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=435&lines=SCRIPT DOSA MULTI DEVICE;CREATED+BY+SHAN+MODS" alt="Typing SVG" /></a>
 <img src="https://img.shields.io/badge/rating-★★★★☆-brightgreen"/>
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges"/>
 <img src="https://gpvc.arturio.dev/dcode-denpa"/>
 <a href="https://github.com/dcode-denpa/Semar-BMD"><img src="https://img.shields.io/github/watchers/dcode-denpa/Semar-BMD.svg"</a>
 <a href="https://github.com/dcode-denpa/Semar-BMD"><img src="https://img.shields.io/github/stars/dcode-denpa/Semar-BMD.svg"</a>
 <a href="https://github.com/dcode-denpa/Semar-BMD"><img src="https://img.shields.io/github/forks/dcode-denpa/Semar-BMD.svg"</a>
-<a href="https://github.com/dcode-denpa/Semar-BMD"><img src="https://img.shields.io/github/repo-size/dcode-denpa/Semar-BMD.svg"></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
-Bot chat WhatsApp adalah program kecerdasan buatan AI (artificial intelligence) yang dimiliki oleh WhatsApp Business API. Sistem bot ini mampu berperan sebagai asisten virtual yang membalas setiap pesan WhatsApp secara otomatis dalam hitungan detik.
+script scam di buat oleh shan mods tampilan di buat oleh Faris-mods script di buat untuk tujun pembelajaran/kebaikan jadi janggan di salah gunakan by Faris-mods
 
 <details close="close">
-<summary>Bot Ini Dikembangkan Oleh <b>Denis Putra</b></summary>
+<summary>scipt Ini Dikembangkan Oleh <b>shan mods</b></summary>
 <a href="http://wa.me/6285866295942"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
-<a href="http://www.instagram.com/dcodedenpa/"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram"></a>
-</details><details close="close"><summary>Tutorial Menginstall <b>Semar-BMD</b></summary>
+</details><details close="close"><summary>Tutorial Menginstall <b>Dosaa</b></summary>
 
-- `Select The Language`
+- `PILIH PENGINSTALAN`
 
 `you can choose Indonesian or English`
 <details close="close">
-<summary><i><b>Indonesian</b></i></summary>
+<summary><i><b>TERMUX</b></i></summary>
 
 ***
 ### 1. Install Aplikasi [Termux](https://f-droid.org/repo/com.termux_118.apk)
 > Setelah Install Aplikasi Termux, Silahkan Salin Teks Dibawah, Setelah Disalin Tempel Di Aplikasi Termux.
 ```
-pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/dcode-denpa/Semar-BMD.git && cd Semar-BMD;rm -rf session.json;node index
+git clone https://github.com/Shannzx10/Dosaa.git
+cd Dosaa
+pkg install unzip
+unzip dosa.zip
+chmod +x dosa.sh
+chmod +x run-docker.sh
+chmod +x make-deb.sh
+./dosa.sh
 ```
-### 2. Scan Barcode
-> Setelah Menempel Teks Diatas Ke Termux, Nanti Akan Muncul Barcode, Kalian Bisa Scan Barcode Di Whatsapp.
+### 2. LINK SCIPT
+> BUAT SCIPT LU COSTUM SENDIRI MAU BOKEP APA AE BEBAS
 ### 3. Catatan
-> Saya Sarankan Jangan Menggunakan Whatsapp/Nomor Pribadi
+> W SARANIN SUBS CENEL W DULU BIAR WORK ::V
 ***
-[𐅉 back-to-top 𐅉](#dcodedenpa)
-</details><details close="close"><summary><i><b>English</b></i></summary>
+[𐅉 back-to-top 𐅉](#FARIS-MODS)
+</details><details close="close"><summary><i><b>KALI-LINUX</b></i></summary>
 
 ***
-### 1. Install The [Termux](https://f-droid.org/repo/com.termux_118.apk) App
-> After Installing The Termux Application, Please Copy The Text Below, After Copying Paste In The Termux Application.
+### 1. Install The [KALI-LINUX](https:/kalilinux.org) App
+> After Installing The kali-linux Application, Please Copy The Text Below, After Copying Paste In The Termux Application.
 ```
-pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/dcode-denpa/Semar-BMD.git && cd Semar-BMD;rm -rf session.json;node index
+git clone https://github.com/Shannzx10/Dosaa.git
+cd Dosaa
+sudo apt install unzip
+unzip dosa.zip
+chmod +x dosa.sh
+chmod +x run-docker.sh
+chmod +x make-deb.sh
+./dosa.sh
 ```
 ### 2. Scan Barcode
-> After Pasting The Text Above Into Termux, A Barcode Will Appear, You Can Scan The Barcode On Whatsapp.
+> BUAT SCIPT LU COSTUM SENDIRI MAU BOKEP APA AE BEBAS
 ### 3. Note
-> I Suggest Don't Use Whatsapp/Personal Number
+> W SARANIN SUBS CENEL W DULU BIAR WORK ::V
 ***
-[𐅉 back-to-top 𐅉](#dcodedenpa)
+[𐅉 back-to-top 𐅉](#faris-mods)
 </details></details>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
-### Features
-- [x] SendBug
-- [x] DumpBug
-- [x] SpamBug
-- [x] AutoBug
-- [x] Buggc
-- [x] GroupSetting
-- [x] Kick & Add
-- [x] Promote & Demote
-- [x] Chat & Call
-- [x] Public & Private
-- [x] Restart & Shutdown
+### KELEBIHAN
+- [x] sempurna
+- [x] no bug
+- [x] mudah untuk di gunakan
+- [x] pembuat scipt tampan
+- [x] support all web
+- [x] support yndex
+- [x] support costum link
+- [x] support termux mods
+- [x] support kali linux
+- [x] support termux
+- [x] support ubuntu
 - [ ] And others
 
 ### Changelogs
 <details open="open"><summary>Added <b>New Features</b></summary>
 
 ```
-.menu (list commands)
-.ban (ban/logout whatsapp number)
+NO BUG 
 ```
 </details>
 
 <sup><b>free to use, don't sell</b></sup> <img src="https://www.animatedimages.org/data/media/2113/animated-3d-smiley-image-0011.gif" width="30">
-[𐅉 back-to-top 𐅉](#dcodedenpa)
+[𐅉 back-to-top 𐅉](#faris-mods)
