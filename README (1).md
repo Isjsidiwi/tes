@@ -14,7 +14,7 @@ script scam di buat oleh shan mods tampilan di buat oleh Faris-mods script di bu
 
 <details close="close">
 <summary>scipt Ini Dikembangkan Oleh <b>shan mods</b></summary>
-<a href="http://wa.me/6285866295942"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
+<a href="http://wa.me/6281235686975"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
 </details><details close="close"><summary>Tutorial Menginstall <b>Dosaa</b></summary>
 
 - `PILIH PENGINSTALAN`
